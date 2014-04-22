@@ -1,0 +1,8 @@
+# python files
+*.pyc
+
+# emacs backups
+*~
+
+# notebook backups
+.ipynb_checkpoints

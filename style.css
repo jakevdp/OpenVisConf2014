@@ -153,4 +153,24 @@ talk-subtitle
     padding-bottom: 0.5em;
 }
 
+table.mytable
+{
+    border: 0px;
+}
+
+.mytable tbody
+{
+    border: 0px;
+}
+
+.mytable td
+{
+    border: 0px;
+}
+
+.mytable tr
+{
+    border: 0px;
+}
+
 </style>
